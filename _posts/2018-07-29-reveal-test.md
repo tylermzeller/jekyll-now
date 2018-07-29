@@ -9,7 +9,7 @@ transition: slide
   ## Test Presentation
   ### In a Jekyll Blog
 </section>
-<section data-markdown>
+<section>
   <pre><code>
 def power(x, n):
   if n == 0:
