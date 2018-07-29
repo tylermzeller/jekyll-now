@@ -1,0 +1,14 @@
+---
+layout: default
+title: Presentations
+---
+
+<div class="posts">
+  {% for post in site.categories.presentation %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">View Presentation</a>-->
+    </article>
+  {% endfor %}
+</div>
