@@ -8,7 +8,7 @@ I'm a software engineering in the Bay Area. My only goal in life is to understan
 
 ### More Information
 
-I'm addicted to twitter, so feel free to give me more content to consume (@tylermzeller or like below).
+I'm addicted to twitter, so feel free to give me more content to consume (@tylermzeller or link below).
 
 ### Contact me
 
